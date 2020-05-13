@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Atlas>
+    <Texture filename="garenarsenal.tex"/>
+    <Elements>
+        <Element name="garen1.tex" u1="0.000244141" u2="0.0310059" v1="0" v2="1"/>
+        <Element name="garen2.tex" u1="0.0314941" u2="0.0622559" v1="0" v2="1"/>
+        <Element name="garen3.tex" u1="0.0627441" u2="0.0935059" v1="0" v2="1"/>
+        <Element name="garen4.tex" u1="0.0939941" u2="0.124756" v1="0" v2="1"/>
+        <Element name="garen5.tex" u1="0.125244" u2="0.156006" v1="0" v2="1"/>
+        <Element name="garen6.tex" u1="0.156494" u2="0.187256" v1="0" v2="1"/>
+        <Element name="garen7.tex" u1="0.187744" u2="0.218506" v1="0" v2="1"/>
+        <Element name="garen8.tex" u1="0.218994" u2="0.249756" v1="0" v2="1"/>
+        <Element name="garen9.tex" u1="0.250244" u2="0.281006" v1="0" v2="1"/>
+        <Element name="garen10.tex" u1="0.281494" u2="0.312256" v1="0" v2="1"/>
+        <Element name="garen11.tex" u1="0.312744" u2="0.343506" v1="0" v2="1"/>
+        <Element name="garen12.tex" u1="0.343994" u2="0.374756" v1="0" v2="1"/>
+        <Element name="garen13.tex" u1="0.375244" u2="0.406006" v1="0" v2="1"/>
+        <Element name="garen14.tex" u1="0.406494" u2="0.437256" v1="0" v2="1"/>
+        <Element name="garen15.tex" u1="0.437744" u2="0.468506" v1="0" v2="1"/>
+        <Element name="garen16.tex" u1="0.468994" u2="0.499756" v1="0" v2="1"/>
+        <Element name="garen17.tex" u1="0.500244" u2="0.531006" v1="0" v2="1"/>
+        <Element name="garen18.tex" u1="0.531494" u2="0.562256" v1="0" v2="1"/>
+        <Element name="garen19.tex" u1="0.562744" u2="0.593506" v1="0" v2="1"/>
+        <Element name="garen20.tex" u1="0.593994" u2="0.624756" v1="0" v2="1"/>
+        <Element name="garenaxe.tex" u1="0.625244" u2="0.656006" v1="0" v2="1"/>
+        <Element name="garenpike.tex" u1="0.656494" u2="0.687256" v1="0" v2="1"/>
+        <Element name="garencatsword.tex" u1="0.687744" u2="0.718506" v1="0" v2="1"/>
+        <Element name="garencatsword_cat.tex" u1="0.718994" u2="0.749756" v1="0" v2="1"/>
+        <Element name="garencth.tex" u1="0.750244" u2="0.781006" v1="0" v2="1"/>
+        <Element name="garenfeatherbow.tex" u1="0.781494" u2="0.812256" v1="0" v2="1"/>
+        <Element name="garenftumbrella.tex" u1="0.812744" u2="0.843506" v1="0" v2="1"/>
+        <Element name="garenwhitewand.tex" u1="0.843994" u2="0.874756" v1="0" v2="1"/>
+    </Elements>
+</Atlas>
