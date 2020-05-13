@@ -1,0 +1,79 @@
+About
+
+Art by Monoko
+Code by Monoko
+
+Reina
+Lv1 Hunger 150   health 150 sanity160
+Lv5  200       200     110
+Animated characters ( When They Cry )
+
+Speed & Damage 
+As the level rises and rises
+
+Sanity
+As the level rises and drops
+
+
+Specil items
+1.Reina’s Machete
+Unlimited number of uses     Can cut down trees
+2. Reina’s Machete with blood
+Unlimited number of uses     High attack  Crit rate is high
+3. Reina’s Hat
+Increase the sanity small 
+Keep warm small
+Keep dry small
+4.Medicine
+Reduce illness  Lv – 1
+
+Syndrome
+It is divided into five grades, the killing will increase the level 
+At  the full moon night upgrade,
+ lv5 highest (full stage, blackening).
+When sanity is low I, blackening.
+
+
+
+if you like this mod,please give rating.
+
+*
+
+关于
+
+繪畫by Monoko
+代碼by Monoko
+
+龙宫礼奈
+Lv1 饥饿150  血量 150  精神160
+Lv5 饥饿200  血量 200  精神110
+
+《寒蝉鸣泣》中的角色，外号柴刀女
+
+综合征
+分为5个等级，杀戮会提升等级，月圆之夜100%升级，lv5最高（完全末期，黑化）。
+精神值低的时候也会发病黑化，提升攻击。
+
+
+移動速度 & 攻擊力
+随等级上升
+
+精神值
+随等级下降
+
+特殊道具
+柴刀     
+可以砍树，无耐久
+
+流血柴刀
+高攻击附加随机暴击,会扣精神
+
+礼帽
+稍微加精神
+稍微保暖
+稍微防水
+
+治疗药丸
+等级减一
+
+如果你喜欢这个MOD，请给予评分
