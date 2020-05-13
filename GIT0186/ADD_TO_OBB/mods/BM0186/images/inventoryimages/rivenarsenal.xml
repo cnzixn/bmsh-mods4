@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Atlas>
+	<Texture filename="rivenarsenal.tex" />
+	<Elements>
+		<Element name="riven1.tex" u1="0.000244141" u2="0.0310059" v1="0.937988" v2="0.999512" />
+		<Element name="riven2.tex" u1="0.0314941" u2="0.0622559" v1="0.937988" v2="0.999512" />
+		<Element name="riven3.tex" u1="0.0627441" u2="0.0935059" v1="0.937988" v2="0.999512" />
+		<Element name="riven4.tex" u1="0.0939941" u2="0.124756" v1="0.937988" v2="0.999512" />
+		<Element name="riven5.tex" u1="0.125244" u2="0.156006" v1="0.937988" v2="0.999512" />
+		<Element name="riven6.tex" u1="0.156494" u2="0.187256" v1="0.937988" v2="0.999512" />
+		<Element name="riven7.tex" u1="0.187744" u2="0.218506" v1="0.937988" v2="0.999512" />
+		<Element name="riven8.tex" u1="0.218994" u2="0.249756" v1="0.937988" v2="0.999512" />
+		<Element name="riven9.tex" u1="0.250244" u2="0.281006" v1="0.937988" v2="0.999512" />
+		<Element name="riven10.tex" u1="0.281494" u2="0.312256" v1="0.937988" v2="0.999512" />
+		<Element name="riven11.tex" u1="0.312744" u2="0.343506" v1="0.937988" v2="0.999512" />
+		<Element name="riven12.tex" u1="0.343994" u2="0.374756" v1="0.937988" v2="0.999512" />
+		<Element name="riven13.tex" u1="0.375244" u2="0.406006" v1="0.937988" v2="0.999512" />
+		<Element name="riven14.tex" u1="0.406494" u2="0.437256" v1="0.937988" v2="0.999512" />
+		<Element name="riven15.tex" u1="0.437744" u2="0.468506" v1="0.937988" v2="0.999512" />
+		<Element name="riven16.tex" u1="0.468994" u2="0.499756" v1="0.937988" v2="0.999512" />
+		<Element name="riven17.tex" u1="0.500244" u2="0.531006" v1="0.937988" v2="0.999512" />
+		<Element name="riven18.tex" u1="0.531494" u2="0.562256" v1="0.937988" v2="0.999512" />
+		<Element name="riven19.tex" u1="0.562744" u2="0.593506" v1="0.937988" v2="0.999512" />
+		<Element name="riven20.tex" u1="0.593994" u2="0.624756" v1="0.937988" v2="0.999512" />
+		<Element name="rivenaxe.tex" u1="0.625244" u2="0.656006" v1="0.937988" v2="0.999512" />
+		<Element name="rivenpike.tex" u1="0.656494" u2="0.687256" v1="0.937988" v2="0.999512" />
+		<Element name="rivencatsword.tex" u1="0.687744" u2="0.718506" v1="0.937988" v2="0.999512" />
+		<Element name="rivencatsword_cat.tex" u1="0.718994" u2="0.749756" v1="0.937988" v2="0.999512" />
+		<Element name="rivencth.tex" u1="0.750244" u2="0.781006" v1="0.937988" v2="0.999512" />
+		<Element name="rivenfeatherbow.tex" u1="0.781494" u2="0.812256" v1="0.937988" v2="0.999512" />
+		<Element name="rivenftumbrella.tex" u1="0.812744" u2="0.843506" v1="0.937988" v2="0.999512" />
+		<Element name="rivenwhitewand.tex" u1="0.843994" u2="0.874756" v1="0.937988" v2="0.999512" />
+	</Elements>
+</Atlas>
