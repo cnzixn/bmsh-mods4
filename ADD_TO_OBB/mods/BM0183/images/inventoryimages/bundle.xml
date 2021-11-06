@@ -1,0 +1,6 @@
+<Atlas><Texture filename="bundle.tex" /><Elements>
+<Element name="bundlewrap.tex" u1="0" u2="0.5" v1="0.5" v2="1" />
+<Element name="bundle_large.tex" u1="0.5" u2="1" v1="0.5" v2="1" />
+<Element name="bundle_medium.tex" u1="0" u2="0.5" v1="0" v2="0.5" />
+<Element name="bundle_small.tex" u1="0.5" u2="1" v1="0" v2="0.5" />
+</Elements></Atlas>
