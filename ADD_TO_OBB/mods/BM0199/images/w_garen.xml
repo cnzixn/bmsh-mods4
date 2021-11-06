@@ -1,0 +1,6 @@
+<Atlas>
+    <Texture filename="w_garen.tex"/>
+    <Elements>
+        <Element name="w_garen.tex" u1="0.015625" u2="0.953125" v1="0.015625" v2="0.984375"/>
+    </Elements>
+</Atlas>
