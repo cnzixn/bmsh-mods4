@@ -1,0 +1,8 @@
+* Solved some bugs and fixes of version 1.02
+	* Player will not get wet upon exiting the underwater
+	* Jellyfish and sea eel have been tweaked to be less dangerous
+	* Jelly lantern provides more light now
+	* Jelly cap is more difficult to get
+	* Iron boulders drop more iron ore now
+	
+	
