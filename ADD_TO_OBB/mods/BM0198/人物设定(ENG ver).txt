@@ -1,0 +1,108 @@
+She feels sleepy in the daytime. 
+doesn't like fighting. 
+brought things from animation and create her items in this world.
+
+PS:She is unfriendly to rookies .
+
+
+
+Introductions:
+Try closing small mapping or re-select the operating system to solve game crashing in character-selecting interface.
+This mod is improved and beautified by "demonstyleds" based on the work of the original creator "Hella Merdurial".
+Hella Merdurial' blog: http://hellamerdurial.blogspot.com.
+Please contact the original creator if you are interested in the Character models.
+demonstyleds' E-mail address:1273166@qq.com
+You can leave  messages on  http://steamcommunity.com/sharedfiles/filedetails/?id=320243275 if you encounter some game problems.
+You can also send mails to  demonstyleds' E-mail address above.
+
+Updates：character-level-up system , exclusive items , de nova mini map, etc.  
+Enhanced characters' gameplay. 
+
+MOD Description:
+Character: Ai Habara( Detective conan,名探偵コナン)
+Abilities:
+create and level up APTX4869, levelmax=10
+initial attributes: Hunger 100  San 150  Health  80
+final  attributes:  Hunger 150  San 300  Health  130
+-20% maximum San in the morning
+daytime:   60%   ATK  80%  Speed
+dusk:      70%   ATK  110% Speed
+night:     70%   ATK  120% Speed
+cave:      100%  ATK  100% Speed
+default San decreasing speed is 10% upregulation
+auto-unlock level1 technology
+Eating petal can restore  1 health and 3 sanity.
+
+
+Items:
+APTX4869
+attributes: level+1 
+recover 60 HP, 30 San
+(honey×5  spidergland×8  pigskin×2)
+
+baseball cap
+attributes:  warm keeping time 240sec, San recovery+3.33, Increase speed%25
+(deerclop's eyeball×1  thick fur×1  walrus tusk×2)
+
+flowers:
+Small range of lighting effects
+ATK  34
+Durable can spend 10 minutes each flower patch +1 minute
+(petals×10 twigs×2 rope×2)
+
+
+
+
+please look foward to my next production(Kid the Phantom Thief). 
+
+
+
+
+简介：
+选择角色弹出 可以尝试关闭小型贴图或者重新选择操作系统解决
+本mod是通过原作者Hella Merdurial的绘画作品上，主要由demonstyleds进行编写人物属性。
+http://hellamerdurial.blogspot.com <Hella Merdurial博客
+对人物模型感兴趣请与原作者进行联系
+
+1273166@qq.com <demonstyleds的邮箱地址
+出现问题可以发送邮件。
+比较原作加入了人物升级，专属道具。更新了小地图贴图等。
+增加了人物可玩性。
+
+PS：她难度较大。
+
+
+MOD描述： 
+角色：灰原哀 （动漫名侦探柯南人物） 
+属性： 
+制作APTX4869进行升级 共十级 
+初始三维 饥饿100 精神150 生命80 
+满级三维 饥饿150 精神300 生命130 
+清晨降低精神%20最大值 
+白天 %60攻击力 %80的移动速度 
+黄昏 %70攻击力 %110的移动速度 
+夜晚 %70攻击力 %120的移动速度 
+洞穴 %100攻击力 %100的移动速度 
+默认精神降低速度提高%10 
+自动解锁一本科技 
+食用花瓣回复1的血量 3的精神
+
+道具： 
+APTX4869 
+属性： 人物升级 
+回复血量60  精神30 
+（蜂蜜5 蜘蛛腺体8 猪皮2） 
+
+
+棒球帽 
+属性：保暖240秒 精神回复3.33   移动速度+%25
+（巨鹿的眼球1 浣熊的厚皮毛1 海象牙齿2） 
+无耐久 
+
+花：
+照明效果大 
+攻击34
+耐久10分钟 可以用花修补 每朵花+1分钟
+（花10 树枝2 草绳2）
+
+下个作品：怪盗基德
